@@ -1,8 +1,8 @@
 -- get help at https://discord.gg/rB4x9dKgbU
 
-local Key = "" -- enter your key here
-local KeyLink = "" -- enter the link to get your key here
-
+local Key = "dasjasowmq1234" -- enter your key here
+local KeyLink = "https://discord.gg/W6vYqCya7X" -- enter the link to get your key here
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ily123950/Vulkan/refs/heads/main/Tr"))()
 local function ScriptHere() -- you will need to put your script on line 5, it can not surpass the end at the bottom
 
 end
@@ -14,8 +14,8 @@ local Note = false -- Tick either true or false if youre writing a note
 
 -- Only do the following if you ticked one of the variables true
 
-local discordLink = "" -- Put your discord link here
-local note = "" -- Put a note here
+local discordLink = "https://discord.gg/W6vYqCya7X" -- Put your discord link here
+local note = "Hello" -- Put a note here
 
 -- Don't touch the rest of the script or it will break.
 
